@@ -1,8 +1,8 @@
 ## Hi! I'm Lucas ;) 
 
 <a href="https://github.com/lucaslucantoni">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lhggomes&layout=compact&langs_count=8&theme=light"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaslucantoni&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslucantoni&layout=compact&langs_count=8&theme=light"/>
 
 <div style="display: inline_block">
 
