@@ -58,7 +58,7 @@ Here are some of the technologies and tools I work with:
 ### Experience
 
 * 👨‍💻 **Java Software Developer** | <a href="https://www.bradesco.com.br" target="_blank">Banco Bradesco</a>
-    * 📆 June 2023 - September 2024
+    * 📆 September 2024
     * 📍 Osasco/SP, Brazil
     * *Key technologies:* Java, Spring Boot, Microservices, REST APIs, Oracle DB, Git, Jira.
 
