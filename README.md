@@ -103,6 +103,3 @@ Here are some of the technologies and tools I work with:
   </a>
 </p>
 
-<p align="left">
-  <a href="#"><img src="https://badges.pufler.dev/visits/lucaslucantoni/lucaslucantoni" alt="Profile Views Badge"></a>
-</p>
